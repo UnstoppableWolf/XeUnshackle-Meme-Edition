@@ -2,6 +2,7 @@
 ![XeUnshackle_Banner](https://github.com/user-attachments/assets/af37d4ae-4ff6-4175-8f81-47869ff63ed6)
 
 Custom Xbox 360 application designed to be used with the [Xbox360BadUpdate](https://github.com/grimdoomer/Xbox360BadUpdate) exploit.  
+(now with memes!)
 
 > [!IMPORTANT]  
 > **THIS APP IS RELEASED AS IS.**  
@@ -31,6 +32,11 @@ Nothing here is particularly new. It's simply a collection of existing code that
 - Ability to dump 1BL to file via button press. This may be particularly useful for those wanting to use the Low Level [Xenon](https://github.com/xenon-emu/xenon) Emulator.
 - Automatic dumping of the current MAC address on first load. This is often changed by stealth servers during the initial KV spoofing. Only other way to retrieve the original is from a nand backup taken BEFORE loading a stealth.
 - Applies Usbdsec patches to allow non-360 XInput controllers. Thanks [InvoxiPlayGames](https://github.com/InvoxiPlayGames)
+
+## Changed / added features of the Meme Edition
+- Changed the background color to be from a solid blue color to a green blue gradient, this was already an option you could change in the source code. But was just solid blue. nothing new here.
+- Added the ability for the payload to load a randomly selected meme from memory, there are currently 18 and is most likely limited to a certain amount due to memory constraints.
+- Added background music to the screen that shows after the video has ended. The song: Of Last Resort - Fade Away. from Rock Band Blitz.
 
 ## Usage
 #### Dashlaunch Plugin Loading:
