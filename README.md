@@ -35,8 +35,15 @@ Nothing here is particularly new. It's simply a collection of existing code that
 
 ## Changed / added features of the Meme Edition
 - Changed the background color to be from a solid blue color to a green blue gradient, this was already an option you could change in the source code. But was just solid blue. nothing new here.
-- Added the ability for the payload to load a randomly selected meme from memory, there are currently 18 and is most likely limited to a certain amount due to memory constraints.
+- Changed loading of embedded videos. the payload can now randomly select and play a meme from memory, there are currently 18 memes and is most likely limited to a certain amount due to memory constraints.
 - Added background music to the screen that shows after the video has ended. The song: Of Last Resort - Fade Away. from Rock Band Blitz.
+  
+## Why?
+
+- Why did I do this? I was bored and saw it as a cool personal challenge. I’ve always dreamed of hacking my Xbox 360 but never had the resources to do it. When I first heard about Bad Update, I legit jumped out of my seat — I was THAT excited — and ordered a new power supply for my 360 the same day LOL. This was the perfect opportunity to mess with some existing code and have fun.
+- ALL credit goes to Byrom for XeUnshackle and everyone who contributed to XeUnshackle.
+- Credits to grimdoomer for Xbox360BadUpdate — a massive thank you for making my childhood dream of hacking my Xbox 360 with just a USB stick a reality. ❤️ as well as anyone else who contributed!
+
 
 ## Usage
 #### Dashlaunch Plugin Loading:
@@ -56,7 +63,7 @@ Any files saved/dumped can be found in the BadUpdatePayload folder of the usb.
 - [InvoxiPlayGames / Emma](https://github.com/InvoxiPlayGames) - [FreeMyXe](https://github.com/FreeMyXe), [Usbdsec patches](https://github.com/InvoxiPlayGames/UsbdSecPatch), Ring of Light fix, [DaTArrest save exploit](https://github.com/RBEnhanced/DaTArrest) & general help
 - [ihatecompvir](https://github.com/ihatecompvir) - [DaTArrest save exploit](https://github.com/RBEnhanced/DaTArrest)
 - ikari - freeBOOT
-- [Jeff Hamm](https://www.youtube.com/watch?v=PantVXVEVUg) - Chain break video
+- [Jeff Hamm](https://www.youtube.com/watch?v=PantVXVEVUg) - Chain break video 
 - [Xbox360Hub Discord #coding-corner](https://xbox360hub.com/)
 - Anyone else who has contributed anything to the 360 scene. Apologies if any credits were missed.
 
