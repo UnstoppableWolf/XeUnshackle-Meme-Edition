@@ -27,6 +27,27 @@
 
 <!-- Add our embedded resources -->
   <section file="Media/success.wmv" name="VID" memory="RO"/>
+  <section file="Media/success1.wmv" name="VID1" memory="RO"/>
+  <section file="Media/success2.wmv" name="VID2" memory="RO"/>
+  <section file="Media/success3.wmv" name="VID3" memory="RO"/>
+  <section file="Media/success4.wmv" name="VID4" memory="RO"/>
+  <section file="Media/success5.wmv" name="VID5" memory="RO"/>
+  <section file="Media/success6.wmv" name="VID6" memory="RO"/>
+  <section file="Media/success7.wmv" name="VID7" memory="RO"/>
+  <section file="Media/success8.wmv" name="VID8" memory="RO"/>
+  <section file="Media/success9.wmv" name="VID9" memory="RO"/>
+  <section file="Media/success10.wmv" name="VID10" memory="RO"/>
+  <section file="Media/success11.wmv" name="VID11" memory="RO"/>
+  <section file="Media/success12.wmv" name="VID12" memory="RO"/>
+  <section file="Media/success13.wmv" name="VID13" memory="RO"/>
+  <section file="Media/success14.wmv" name="VID14" memory="RO"/>
+  <section file="Media/success15.wmv" name="VID15" memory="RO"/>
+  <section file="Media/success16.wmv" name="VID16" memory="RO"/>
+  <section file="Media/success17.wmv" name="VID17" memory="RO"/>
+  <section file="Media/success18.wmv" name="VID18" memory="RO"/>
+  <section file="Media/victory.wav" name="AUD" memory="RO"/>
+
+
   <section file="Media/font.xpr" name="FONT" memory="RO"/>
   <section file="Media/launch-Hdd.xex" name="LXHDD" memory="RO"/>
   <section file="Media/lhelper-Hdd.xex" name="LHHDD" memory="RO"/>

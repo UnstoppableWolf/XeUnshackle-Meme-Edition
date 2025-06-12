@@ -2,7 +2,6 @@
 ![XeUnshackle_Banner](https://github.com/user-attachments/assets/af37d4ae-4ff6-4175-8f81-47869ff63ed6)
 
 Custom Xbox 360 application designed to be used with the [Xbox360BadUpdate](https://github.com/grimdoomer/Xbox360BadUpdate) exploit.  
-(Now with memes!)
 
 > [!IMPORTANT]  
 > **THIS APP IS RELEASED AS IS.**  
@@ -32,14 +31,6 @@ Nothing here is particularly new. It's simply a collection of existing code that
 - Ability to dump 1BL to file via button press. This may be particularly useful for those wanting to use the Low Level [Xenon](https://github.com/xenon-emu/xenon) Emulator.
 - Automatic dumping of the current MAC address on first load. This is often changed by stealth servers during the initial KV spoofing. Only other way to retrieve the original is from a nand backup taken BEFORE loading a stealth.
 - Applies Usbdsec patches to allow non-360 XInput controllers. Thanks [InvoxiPlayGames](https://github.com/InvoxiPlayGames)
-
-
-## Changed / Added Features of the Meme Edition.
-- Changed the color of the background to be a gradient instead of solid, this was already a feature but was just put as a blue color. You just have to change one or the other of the HEX color values to a color of choice and you have your gradient. 
-- Now has menu music, Of Last Resort - Fade Away. from Rock Band Blitz. You can kill it by pressing B, killing the video is now A on the controller.
-- Currently has 18 memes that it will randomly be selected and played when default.xex is executed apon successful exploitation. i will definitely be adding more, but i think i am limited in the amount of videos i can put in the xex because of the 512mb of ram the xbox 360 has.
-- Why did i do this? I was bored and a friend and i had the idea to make the program play random memes when executed, then turned into wanting menu music because hell yeah. this was pretty much just a learning experience and i definitely had fun with it.
-- ALL Credit goes too Byrom for making XeUnshackle and the others credited in the original repo here (https://github.com/Byrom90/XeUnshackle)
 
 ## Usage
 #### Dashlaunch Plugin Loading:
