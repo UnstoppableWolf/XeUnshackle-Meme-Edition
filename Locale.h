@@ -37,6 +37,7 @@ typedef struct _LocalisationMessages_t
     wchar_t* MainScrBtnSaveInfo;
     wchar_t* MainScrBtnDump1BL;
     wchar_t* MainScrBtnExit;
+	wchar_t* BKillMusic;
 
 } LocalisationMessages_t;
 

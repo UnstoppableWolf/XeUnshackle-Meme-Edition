@@ -8,15 +8,15 @@
 LocalisationMessages_t english = {
     // Error Messagebox
     L"Unfortunately an error occurred while running Stage %i\n\nApp will now exit",
-    L"Understood",
+    L"Fuck you :(",
     // Dashlaunch load status
-    L"Dashlaunch: Loaded! %ls",
+    L"Dashlaunch: Loaded!%ls",
     L"[HDD mode]",
-    L"[USB mode] DO NOT UNPLUG THE USB!",
-    L"Dashlaunch: FAILED! - Failed to write lhelper.xex. Section data error!",
-    L"Dashlaunch: FAILED! - Failed to write lhelper.xex. Mount error!",
-    L"Dashlaunch: FAILED! - Failed to write lhelper.xex to storage device.",
-    L"Dashlaunch: FAILED! - Failed to load launch.xex. Section data error!",
+    L"[USB mode] DO NOT UNPLUG THE USB!!",
+    L"Dashlaunch: FAILED! - Failed to write lhelper.xex. Section data error! womp womp",
+    L"Dashlaunch: FAILED! - Failed to write lhelper.xex. Mount error! well FUCK",
+    L"Dashlaunch: FAILED! - Failed to write lhelper.xex to storage device. GODDAMNIT",
+    L"Dashlaunch: FAILED! - Failed to load launch.xex. Section data error! well this stinks :/ ",
     L"Dashlaunch: FAILED! - Status: %X",
     // Dump 1BL Notify
     L"[Dump1blRomToFile] FAILED! Non-zero result from Hvx...",
@@ -24,16 +24,23 @@ LocalisationMessages_t english = {
     L"[Dump1blRomToFile] FAILED! Failed to write file...",
     // Save Console Info Notify
     L"Saved to ConsoleInfo.txt",
-    L"Saving Failed!",
+    L"Saving Failed! How GREAT :D",
     // Save Orig MAC
     L"Original MAC dumped to OriginalMACAddress.bin",
     L"Failed to dump original MAC!",
     // Main Screen Text
+	L"We Che" GLYPH_A_BUTTON L"t To He" GLYPH_A_BUTTON L"r " GLYPH_Y_BUTTON L"ou Cr" GLYPH_Y_BUTTON,
     L"All patches have now been applied!\nRegular JTAG/RGH functionality should now be possible on your system.\n\nTHIS IS NOT PERSISTENT!\nYour console will return to a completely stock unmodified state once shut down.\nIt is HIGHLY recommended that you now go dump a copy of your nand!",
-    L"Any plugins set in launch.ini will load when you exit this app.\nLiveBlock should be working now if enabled in the launch.ini.\nPlug in your ethernet cable before exiting to allow stealths to authenticate correctly.",
-    GLYPH_X_BUTTON L" Save info to file",
-    GLYPH_Y_BUTTON L" Dump 1BL to file",
-    L"Press " GLYPH_BACK_BUTTON L" to exit"
+
+    
+    GLYPH_Y_BUTTON L" Dump 1BL to file ",
+    L"Press " GLYPH_BACK_BUTTON L" to exit.",
+
+	//
+	L"Press " GLYPH_B_BUTTON L" to kill the music",
+	L"Any plugins set in launch.ini will load when you exit this app.\nLiveBlock should be working now if enabled in the launch.ini.\nPlug in your ethernet cable before exiting to allow stealths to authenticate correctly."
+
+
 };
 
 LocalisationMessages_t spanish = {
